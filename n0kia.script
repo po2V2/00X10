@@ -2311,8 +2311,6 @@ if hum1 then
 end
 end)	
 
-
-
 local Tab = Window:NewTab("لمكان انتقال")
 local scriptSection = Tab:NewSection("الاماكن!")
 
