@@ -2412,6 +2412,6 @@ scriptSection:NewTextBox("fovال", "bruh", function(txt)
 	workspace.CurrentCamera.FieldOfView = (txt)
 end)
 
-scriptSection:NewKeybind("القائمة الي يسكر", "انا قوي ؟",Enum.KeyCode.V, function()
+scriptSection:NewKeybind("القائمة يسكر الي", "انا قوي ؟",Enum.KeyCode.V, function()
 	Library:ToggleUI()
 end)
